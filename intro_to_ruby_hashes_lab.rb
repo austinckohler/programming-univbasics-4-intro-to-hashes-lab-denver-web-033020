@@ -31,4 +31,4 @@ def update_counting_hash(hash, key)
   hash
   
 end
-puts update_counting_hash({4}, apples)
+puts update_counting_hash(4, apples)
